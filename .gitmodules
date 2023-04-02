@@ -1,3 +1,0 @@
-[submodule "api/haystack"]
-	path = api/haystack
-	url = git@github.com:deepset-ai/haystack.git
